@@ -1,0 +1,5 @@
+*.mp4
+#*.jpg
+!apex/data/0228_photo/apex_photo/
+
+apex/data/0228_photo/*
