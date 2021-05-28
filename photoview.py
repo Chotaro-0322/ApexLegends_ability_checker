@@ -273,8 +273,8 @@ class Ui_MainWindow(object):
             for path in root.iter("csv_path"):
                 csv_path = path.text
 
-            os.chdir(self.dirname)
             #print(self.dirname)
+            os.chdir(self.dirname)
 
             folder_path = folder_path.replace("/", os.sep)
             self.lineEdit.setText(folder_path)
