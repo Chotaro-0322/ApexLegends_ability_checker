@@ -7,7 +7,16 @@ So, This project is not complete.<br>
 
 ## AnnotationTools
 You can make the dataset for Deep Learning network.<br>
-Please select (hit) or (no hit)<br>
 ### ・Usage
-1. new project
-2. 
+```python main.py```
+1. Make new project<br>
+  ファイル → 新規作成 → {photo folder}
+2. Open project<br>
+  参照 → ```photo_cfg.xml```<br>
+
+If you can't make or open folder, please ```rm photo_cfg.xml``` and ```rm annotation.csv```
+
+### ・Annotation
+Please select (hit) or (no hit) each of photos <br>
+You can use shortcut front Image →```<a>```, next Image →```<d>``` <br>
+
