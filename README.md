@@ -8,3 +8,6 @@ So, This project is not complete.<br>
 ## AnnotationTools
 You can make the dataset for Deep Learning network.<br>
 Please select (hit) or (no hit)<br>
+### ・Usage
+1. new project
+2. 
