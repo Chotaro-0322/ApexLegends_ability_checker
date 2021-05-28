@@ -10,10 +10,10 @@ You can make the dataset for Deep Learning network.<br>
 ### ・Usage
 ```python main.py```
 1. Make new project<br>
-  ファイル → 新規作成 → {photo folder}
+  ファイル → 新規作成 → {photo folder} → [open]
   ![photo](https://github.com/Chotaro-0322/ApexLegends_ability_checker/wiki/image/photo.png)
 2. Open project<br>
-  参照 → ```photo_cfg.xml```<br>
+  参照 → ```photo_cfg.xml``` → [open]<br>
   ![photo](https://github.com/Chotaro-0322/ApexLegends_ability_checker/wiki/image/cfg.png)
 
 If you can't make or open folder, please ```rm photo_cfg.xml``` and ```rm annotation.csv```
